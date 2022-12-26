@@ -20,4 +20,4 @@ This MATLAB code is a part of my aero design course's project where the goal was
 
 ### What I learned
 
-I learned about the caculations involved in designing an aircraft as well as the capabilities of MATLAB to perform math calculations and plot data easily.
+I learned about the calculations involved in designing an aircraft as well as the capabilities of MATLAB to perform math calculations and plot data easily.
